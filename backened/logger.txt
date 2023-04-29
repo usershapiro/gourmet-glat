@@ -1,0 +1,47 @@
+25.4.2023, 1:47:00 	 ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)----------------------------------------------
+25.4.2023, 1:50:19 	 ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)----------------------------------------------
+25.4.2023, 1:50:22 	 ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)----------------------------------------------
+25.4.2023, 1:52:19 	 ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)----------------------------------------------
+25.4.2023, 1:57:40 	 ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)----------------------------------------------
+25.4.2023, 2:19:09 	 ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)----------------------------------------------
+25.4.2023, 2:22:52 	 ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)----------------------------------------------
+25.4.2023, 2:29:54 	 ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)----------------------------------------------
+25.4.2023, 20:35:56 	 ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)----------------------------------------------
+25.4.2023, 20:36:03 	 ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)----------------------------------------------
+25.4.2023, 20:51:00 	 ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)----------------------------------------------
+25.4.2023, 20:51:02 	 ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)----------------------------------------------
+25.4.2023, 20:51:03 	 ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)----------------------------------------------
+25.4.2023, 20:52:20 	 ER_ACCESS_DENIED_ERROR: Access denied for user 'root@localhost'@'localhost' (using password: NO)----------------------------------------------
+25.4.2023, 20:52:21 	 ER_ACCESS_DENIED_ERROR: Access denied for user 'root@localhost'@'localhost' (using password: NO)----------------------------------------------
+25.4.2023, 20:52:23 	 ER_ACCESS_DENIED_ERROR: Access denied for user 'root@localhost'@'localhost' (using password: NO)----------------------------------------------
+25.4.2023, 20:53:20 	 ER_ACCESS_DENIED_ERROR: Access denied for user 'root@localhost'@'localhost' (using password: NO)----------------------------------------------
+25.4.2023, 21:17:50 	 Route /api/product-by-categoryId/1 not exist----------------------------------------------
+25.4.2023, 22:42:22 	 ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'----------------------------------------------
+25.4.2023, 22:43:15 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':00:00.000Z,
+     2023-04-12T21:00:00.000Z,
+     2
+     )' at line 4----------------------------------------------
+25.4.2023, 22:43:45 	 ER_BAD_FIELD_ERROR: Unknown column 'cucumbers' in 'field list'----------------------------------------------
+25.4.2023, 22:44:33 	 ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'----------------------------------------------
+25.4.2023, 22:45:53 	 ER_BAD_FIELD_ERROR: Unknown column 'cucumbers' in 'field list'----------------------------------------------
+25.4.2023, 22:46:29 	 ER_BAD_FIELD_ERROR: Unknown column 'cucumbers' in 'field list'----------------------------------------------
+25.4.2023, 22:58:54 	 ER_BAD_FIELD_ERROR: Unknown column 'cucumbers' in 'field list'----------------------------------------------
+25.4.2023, 22:58:56 	 ER_BAD_FIELD_ERROR: Unknown column 'cucumbers' in 'field list'----------------------------------------------
+25.4.2023, 22:59:00 	 ER_BAD_FIELD_ERROR: Unknown column 'cucumbers' in 'field list'----------------------------------------------
+25.4.2023, 22:59:30 	 ER_BAD_FIELD_ERROR: Unknown column 'cucumbers' in 'field list'----------------------------------------------
+25.4.2023, 22:59:31 	 ER_BAD_FIELD_ERROR: Unknown column 'cucumbers' in 'field list'----------------------------------------------
+25.4.2023, 23:15:45 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'rolls,
+     2023-04-03T21:00:00.000Z,
+     2023-04-05T21:00:00.000Z,
+     3,
+...' at line 3----------------------------------------------
+26.4.2023, 0:54:23 	 ER_BAD_FIELD_ERROR: Unknown column 'products.productsId' in 'where clause'----------------------------------------------
+28.4.2023, 0:43:42 	 Route /api/kittens not exist----------------------------------------------
+28.4.2023, 0:43:42 	 Route /favicon.ico not exist----------------------------------------------
+28.4.2023, 0:43:53 	 Route /api/kittens not exist----------------------------------------------
+28.4.2023, 0:44:03 	 Route / not exist----------------------------------------------
+28.4.2023, 2:03:27 	 ER_BAD_FIELD_ERROR: Unknown column 'P.categoryId' in 'where clause'----------------------------------------------
+29.4.2023, 23:32:15 	 Route /api/products[object%20Object] not exist----------------------------------------------
+29.4.2023, 23:32:59 	 Route /api/products[object%20Object] not exist----------------------------------------------
+29.4.2023, 23:37:46 	 Route /api/products[object%20Object] not exist----------------------------------------------
+29.4.2023, 23:41:33 	 Route /api/products[object%20Object] not exist----------------------------------------------
